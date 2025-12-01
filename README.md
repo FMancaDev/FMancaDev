@@ -33,3 +33,4 @@ This GitHub is a record of my growth as a developer, storing projects, experimen
 ![VSCode](https://img.shields.io/badge/vscode-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3893F5)
 ![Python](https://img.shields.io/badge/python-0D1117.svg?style=for-the-badge&logo=python&logoColor=FFD43B)
 
+<!-- ## ☎️ Connect with me! -->
